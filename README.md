@@ -6,7 +6,9 @@ React JS Web Application using React Hooks and fetching some data to show how ma
 
 **fetching data from:** https://restcountries.eu/rest/v2/all
 
-**Single Page Application: ** https://react-countries-25dd9.web.app
+**Single Page Application:** https://react-countries-25dd9.web.app
+
+![Image of app-countries](./public/react-countries.png)
 
 ## How to start
 
