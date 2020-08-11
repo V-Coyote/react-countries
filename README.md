@@ -8,8 +8,7 @@ React JS Web Application using React Hooks and fetching some data to show how ma
 
 **Single Page Application:** https://react-countries-25dd9.web.app
 
-![Image of app-countries](public/react-countries.png)
-![GitHub Logo](/public/react-countries.png)
+![App image](/public/react-countries.png)
 
 ## How to start
 
